@@ -233,5 +233,21 @@ Next Steps
 ________________________________________
 Closing Note
 This project demonstrates how thoughtful UX can transform healthcare delivery by simplifying complex tasks, unifying fragmented records, and making digital care trustworthy, accessible, and efficient.
+
+Images of UI design
+
+<img width="1911" height="778" alt="a" src="https://github.com/user-attachments/assets/3f0f6eff-0e7b-4273-907c-838ff7ec878d" />
+<img width="1916" height="780" alt="b" src="https://github.com/user-attachments/assets/8a9ec405-cd7d-4486-89c3-925b6d6b58a7" />
+<img width="1902" height="767" alt="c" src="https://github.com/user-attachments/assets/8736662e-c236-4b2f-8f7d-79c80fb01470" />
+<img width="1917" height="767" alt="d" src="https://github.com/user-attachments/assets/f9a1183e-f9a6-4eb3-a0de-489abc8453e8" />
+<img width="1898" height="798" alt="e" src="https://github.com/user-attachments/assets/bcae3d7d-bf7d-43d8-8729-ef00ac692908" />
+<img width="1915" height="793" alt="f" src="https://github.com/user-attachments/assets/1b8f1a43-eba5-4047-ab2a-8be7ff2cd94f" />
+
+
+
+
+
+
+
 © Anmol Yadav — Built for a UX portfolio.
 
